@@ -1,7 +1,7 @@
 # Programação III
 Professor: Endrigo.
 
-Equipe: \nAmanda Bezerra de Lima
+Equipe: Amanda Bezerra de Lima
         Daniela
         Patrícia
         Priscilla de Azevedo Rego de Magalhães
